@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\bin\Debug\net6.0\Exercicio02.exe
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\bin\Debug\net6.0\Exercicio02.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\bin\Debug\net6.0\Exercicio02.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\bin\Debug\net6.0\Exercicio02.dll
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\bin\Debug\net6.0\Exercicio02.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.dll
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\refint\Exercicio02.dll
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\Exercicio02.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio02\obj\Debug\net6.0\ref\Exercicio02.dll
