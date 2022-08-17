@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Sec04_ClasseAtributoMetodo
+﻿namespace Sec04_ClasseAtributoMetodo
 {
-    internal class Triangulo
-    {
+    class Triangulo {
+        //o public sinaliza que essas variáveis poderão ser acessadas em outro arquivo
+        public double A;
+        public double B;    
+        public double C; 
     }
 }

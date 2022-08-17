@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sec04_ClasseAtributoMetodo/1.0.0": {
+        "runtime": {
+          "Sec04_ClasseAtributoMetodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sec04_ClasseAtributoMetodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
