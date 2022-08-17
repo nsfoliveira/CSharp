@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Exercicio01/1.0.0": {
+      "Exercicios/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Exercicio01.dll": {}
+          "bin/placeholder/Exercicios.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Exercicio01.dll": {}
+          "bin/placeholder/Exercicios.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Exercicio01/1.0.0": {
+    "Exercicios/1.0.0": {
       "type": "project",
-      "path": "../Exercicio01/Exercicio01.csproj",
-      "msbuildProject": "../Exercicio01/Exercicio01.csproj"
+      "path": "../Exercicio01/Exercicios.csproj",
+      "msbuildProject": "../Exercicio01/Exercicios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Exercicio01 >= 1.0.0"
+      "Exercicios >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicio01.csproj": {
-              "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicio01.csproj"
+            "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicios.csproj": {
+              "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicios.csproj"
             }
           }
         }

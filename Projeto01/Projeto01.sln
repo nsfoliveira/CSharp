@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curso", "Projeto01\Curso.csproj", "{60A2E0FD-934F-4209-8CAF-1E5D2FCFF9B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{4969E206-31BA-4E17-93E5-3942F56C6905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios", "Exercicio01\Exercicios.csproj", "{4969E206-31BA-4E17-93E5-3942F56C6905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02", "Exercicio02\Exercicio02.csproj", "{920F48F9-5BF9-4E1E-9CE8-9F18AC7EF252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio02", "Exercicio02\Exercicio02.csproj", "{920F48F9-5BF9-4E1E-9CE8-9F18AC7EF252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

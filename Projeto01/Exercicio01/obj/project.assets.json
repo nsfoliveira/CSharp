@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicio01.csproj",
-      "projectName": "Exercicio01",
-      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicio01.csproj",
+      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicios.csproj",
+      "projectName": "Exercicios",
+      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\Exercicios.csproj",
       "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
       "outputPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Projeto01\\Exercicio01\\obj\\",
       "projectStyle": "PackageReference",

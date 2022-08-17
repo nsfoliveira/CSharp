@@ -1,0 +1,5 @@
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio01\obj\Debug\net6.0\Exercicios.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio01\obj\Debug\net6.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio01\obj\Debug\net6.0\Exercicios.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio01\obj\Debug\net6.0\Exercicios.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Projeto01\Exercicio01\obj\Debug\net6.0\Exercicios.csproj.CoreCompileInputs.cache
