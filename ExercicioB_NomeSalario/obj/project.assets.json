@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Exercicio01_CriandoClasse\\ExercicioA_NomeIdade.csproj",
-      "projectName": "ExercicioA_NomeIdade",
-      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Exercicio01_CriandoClasse\\ExercicioA_NomeIdade.csproj",
+      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\ExercicioB_NomeSalario\\ExercicioB_NomeSalario.csproj",
+      "projectName": "ExercicioB_NomeSalario",
+      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\ExercicioB_NomeSalario\\ExercicioB_NomeSalario.csproj",
       "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-      "outputPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\Exercicio01_CriandoClasse\\obj\\",
+      "outputPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\ExercicioB_NomeSalario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
