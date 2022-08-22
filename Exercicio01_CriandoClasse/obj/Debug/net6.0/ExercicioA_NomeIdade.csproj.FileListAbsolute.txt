@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\bin\Debug\net6.0\ExercicioA_NomeIdade.exe
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\bin\Debug\net6.0\ExercicioA_NomeIdade.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\bin\Debug\net6.0\ExercicioA_NomeIdade.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\bin\Debug\net6.0\ExercicioA_NomeIdade.dll
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\bin\Debug\net6.0\ExercicioA_NomeIdade.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.dll
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\refint\ExercicioA_NomeIdade.dll
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ExercicioA_NomeIdade.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\Exercicio01_CriandoClasse\obj\Debug\net6.0\ref\ExercicioA_NomeIdade.dll
