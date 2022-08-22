@@ -23,14 +23,10 @@ namespace Sec04_ClasseAtributoMetodo {
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double p;
-            double areaX;
-            double areaY;
+            double areaX = x.CalculoArea();
+            double areaY = y.CalculoArea();
 
-            p = (x.A + x.B + x.C) / 2.0;
-            areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;
-            areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));

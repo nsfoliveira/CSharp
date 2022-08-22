@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioB_NomeSalario/1.0.0": {
+        "runtime": {
+          "ExercicioB_NomeSalario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioB_NomeSalario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

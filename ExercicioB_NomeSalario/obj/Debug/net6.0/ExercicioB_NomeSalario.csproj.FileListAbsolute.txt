@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\bin\Debug\net6.0\ExercicioB_NomeSalario.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\bin\Debug\net6.0\ExercicioB_NomeSalario.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\bin\Debug\net6.0\ExercicioB_NomeSalario.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\bin\Debug\net6.0\ExercicioB_NomeSalario.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\bin\Debug\net6.0\ExercicioB_NomeSalario.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\refint\ExercicioB_NomeSalario.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ExercicioB_NomeSalario.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioB_NomeSalario\obj\Debug\net6.0\ref\ExercicioB_NomeSalario.dll
