@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioA_NomeIdade", "ExercicioA_NomeIdade.csproj", "{D59153A5-7C7A-4715-A7CC-9A46635F622F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioA_NomeIdade", "ExercicioA_NomeIdade.csproj", "{D59153A5-7C7A-4715-A7CC-9A46635F622F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioB_NomeSalario", "..\ExercicioB_NomeSalario\ExercicioB_NomeSalario.csproj", "{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioB_NomeSalario", "..\ExercicioB_NomeSalario\ExercicioB_NomeSalario.csproj", "{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioGuiado_Estoque", "..\ExercicioGuiado_Estoque\ExercicioGuiado_Estoque.csproj", "{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\bin\Debug\net6.0\ExercicioGuiado_Estoque.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\bin\Debug\net6.0\ExercicioGuiado_Estoque.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\bin\Debug\net6.0\ExercicioGuiado_Estoque.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\bin\Debug\net6.0\ExercicioGuiado_Estoque.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\bin\Debug\net6.0\ExercicioGuiado_Estoque.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\refint\ExercicioGuiado_Estoque.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ExercicioGuiado_Estoque.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioGuiado_Estoque\obj\Debug\net6.0\ref\ExercicioGuiado_Estoque.dll
