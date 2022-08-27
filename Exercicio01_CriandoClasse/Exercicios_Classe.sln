@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioA_NomeIdade", "Exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioB_NomeSalario", "..\ExercicioB_NomeSalario\ExercicioB_NomeSalario.csproj", "{B43BAAE9-BD55-485C-9B9C-FD33C7A76E83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioGuiado_Estoque", "..\ExercicioGuiado_Estoque\ExercicioGuiado_Estoque.csproj", "{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioGuiado_Estoque", "..\ExercicioGuiado_Estoque\ExercicioGuiado_Estoque.csproj", "{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioC_Retangulo", "..\ExercicioC_Retangulo\ExercicioC_Retangulo.csproj", "{164C06BD-452D-4B40-8CF7-5532E5941FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioD_FuncionarioSalarioImposto", "..\ExercicioD_FuncionarioSalarioImposto\ExercicioD_FuncionarioSalarioImposto.csproj", "{EBC68F42-E87A-4EDB-9A4F-7CC8E73750CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioE_Aluno", "..\ExercicioE_Aluno\ExercicioE_Aluno.csproj", "{37077E8D-1E10-47E5-A5FC-0ACD7A34AC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioF_ConversorDeMoeda", "..\ExercicioF_ConversorDeMoeda\ExercicioF_ConversorDeMoeda.csproj", "{CDF9D27D-7032-4857-8519-57E9A4235A23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AEEF9CA-C510-4DBD-B971-AE8B9FC39D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164C06BD-452D-4B40-8CF7-5532E5941FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164C06BD-452D-4B40-8CF7-5532E5941FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164C06BD-452D-4B40-8CF7-5532E5941FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164C06BD-452D-4B40-8CF7-5532E5941FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC68F42-E87A-4EDB-9A4F-7CC8E73750CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC68F42-E87A-4EDB-9A4F-7CC8E73750CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC68F42-E87A-4EDB-9A4F-7CC8E73750CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC68F42-E87A-4EDB-9A4F-7CC8E73750CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37077E8D-1E10-47E5-A5FC-0ACD7A34AC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37077E8D-1E10-47E5-A5FC-0ACD7A34AC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37077E8D-1E10-47E5-A5FC-0ACD7A34AC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37077E8D-1E10-47E5-A5FC-0ACD7A34AC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF9D27D-7032-4857-8519-57E9A4235A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF9D27D-7032-4857-8519-57E9A4235A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF9D27D-7032-4857-8519-57E9A4235A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF9D27D-7032-4857-8519-57E9A4235A23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

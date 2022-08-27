@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\bin\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\bin\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\bin\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\bin\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\bin\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\refint\ExercicioD_FuncionarioSalarioImposto.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ExercicioD_FuncionarioSalarioImposto.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioD_FuncionarioSalarioImposto\obj\Debug\net6.0\ref\ExercicioD_FuncionarioSalarioImposto.dll

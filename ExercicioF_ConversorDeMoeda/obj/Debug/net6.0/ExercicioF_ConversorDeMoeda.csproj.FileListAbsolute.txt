@@ -1,0 +1,5 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioF_ConversorDeMoeda\obj\Debug\net6.0\ExercicioF_ConversorDeMoeda.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioF_ConversorDeMoeda\obj\Debug\net6.0\ExercicioF_ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioF_ConversorDeMoeda\obj\Debug\net6.0\ExercicioF_ConversorDeMoeda.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioF_ConversorDeMoeda\obj\Debug\net6.0\ExercicioF_ConversorDeMoeda.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioF_ConversorDeMoeda\obj\Debug\net6.0\ExercicioF_ConversorDeMoeda.csproj.CoreCompileInputs.cache

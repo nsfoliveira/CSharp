@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioD_FuncionarioSalarioImposto/1.0.0": {
+        "runtime": {
+          "ExercicioD_FuncionarioSalarioImposto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioD_FuncionarioSalarioImposto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

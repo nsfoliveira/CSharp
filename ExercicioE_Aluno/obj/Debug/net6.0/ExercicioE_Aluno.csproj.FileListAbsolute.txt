@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\bin\Debug\net6.0\ExercicioE_Aluno.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\bin\Debug\net6.0\ExercicioE_Aluno.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\bin\Debug\net6.0\ExercicioE_Aluno.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\bin\Debug\net6.0\ExercicioE_Aluno.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\bin\Debug\net6.0\ExercicioE_Aluno.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\refint\ExercicioE_Aluno.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ExercicioE_Aluno.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioE_Aluno\obj\Debug\net6.0\ref\ExercicioE_Aluno.dll

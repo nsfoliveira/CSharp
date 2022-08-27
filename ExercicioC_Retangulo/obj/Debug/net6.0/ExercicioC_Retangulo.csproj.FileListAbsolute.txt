@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\bin\Debug\net6.0\ExercicioC_Retangulo.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\bin\Debug\net6.0\ExercicioC_Retangulo.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\bin\Debug\net6.0\ExercicioC_Retangulo.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\bin\Debug\net6.0\ExercicioC_Retangulo.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\bin\Debug\net6.0\ExercicioC_Retangulo.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\refint\ExercicioC_Retangulo.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ExercicioC_Retangulo.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioC_Retangulo\obj\Debug\net6.0\ref\ExercicioC_Retangulo.dll
