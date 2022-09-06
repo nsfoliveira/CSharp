@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\bin\Debug\net6.0\Construtores.exe
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\bin\Debug\net6.0\Construtores.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\bin\Debug\net6.0\Construtores.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\bin\Debug\net6.0\Construtores.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\bin\Debug\net6.0\Construtores.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\refint\Construtores.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sec05_ContrutoresThisSobrecargaEncapsulamento\obj\Debug\net6.0\ref\Construtores.dll

@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\bin\Debug\net6.0\PropertiesAutoProperties.exe
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\bin\Debug\net6.0\PropertiesAutoProperties.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\bin\Debug\net6.0\PropertiesAutoProperties.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\bin\Debug\net6.0\PropertiesAutoProperties.dll
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\bin\Debug\net6.0\PropertiesAutoProperties.pdb
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.dll
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\refint\PropertiesAutoProperties.dll
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.pdb
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\PropertiesAutoProperties.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\PropertiesAutoProperties\obj\Debug\net6.0\ref\PropertiesAutoProperties.dll

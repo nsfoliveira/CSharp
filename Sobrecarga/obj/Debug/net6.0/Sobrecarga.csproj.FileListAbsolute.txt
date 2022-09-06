@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\bin\Debug\net6.0\Sobrecarga.exe
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\bin\Debug\net6.0\Sobrecarga.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\bin\Debug\net6.0\Sobrecarga.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\bin\Debug\net6.0\Sobrecarga.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\bin\Debug\net6.0\Sobrecarga.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\refint\Sobrecarga.dll
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\Sobrecarga.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\Sobrecarga\obj\Debug\net6.0\ref\Sobrecarga.dll

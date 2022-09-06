@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
