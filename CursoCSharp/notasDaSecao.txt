@@ -1,0 +1,7 @@
+REFERENCIA
+
+Classes são tipos referência: as variáveis cujo tipo são classe, são como ponteiros, pois elas recebem o endereço da onde estão os dados. Ponteiro aponta pra algum lugar
+Valor Null: tipos referencia aceitam valor null
+Structs são tipo valor: structs são CAIXAS e não ponteiros. Exemplo double, int. Struct, diferente do ponteiro que aponta pra algum lugar, faz uma copia (ex, x = 10, y = x... Y
+	na verdade recebeu uma copia da x)
+

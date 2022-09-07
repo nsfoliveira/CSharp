@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\bin\Debug\net6.0\point.exe
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\bin\Debug\net6.0\point.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\bin\Debug\net6.0\point.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\bin\Debug\net6.0\point.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\bin\Debug\net6.0\point.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\refint\point.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\point.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\referencia\obj\Debug\net6.0\ref\point.dll
