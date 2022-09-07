@@ -1,0 +1,15 @@
+﻿Sistema onde o usuario poderá escolher os serviços
+
+
+1) solicitará os dados do usuário (Nome, email, telefone)
+2) perguntará qual opção de serviço contratará
+aparelho diamante (aluguel 1 + taxa 1)
+aparelho ouro (aluguel 1 + taxa 2)
+aparelho preta (aluguel 2 + taxa 2)
+aparelho bonze (aluguel 2 + taxa 3)
+3) perguntará a quantidade
+4) mostrará o valor total do serviço e tbm o valor do aluguel e taxa)
+5) perguntará se o cliente concorda
+6) cliente responderá
+a) se sim, retorna mensagem de 'contratação efetuada'
+b) se não, retorna mensagem de 'contratação não efetuada'

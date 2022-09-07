@@ -18,9 +18,9 @@ namespace ExercicioFixacao
         }
 
         // CONSTRUTOR DA CLASSE COM 3 ARGUMENTOS, UTILIZANDO THIS PARA REUTILIZAR OS ARGUMENTOS CRIADOS NO CONSTRUTOR ANTERIOR
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
         // COSTRUTOR DA CLASSE PARA DEPOSITO, ONDE SERÁ SOMADO AO SALDO O NOVO VALOR DE ENTRADA
