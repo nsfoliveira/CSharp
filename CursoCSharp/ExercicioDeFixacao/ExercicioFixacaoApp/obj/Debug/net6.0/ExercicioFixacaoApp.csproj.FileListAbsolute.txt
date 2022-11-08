@@ -1,0 +1,5 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoApp\obj\Debug\net6.0\ExercicioFixacaoApp.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoApp\obj\Debug\net6.0\ExercicioFixacaoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoApp\obj\Debug\net6.0\ExercicioFixacaoApp.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoApp\obj\Debug\net6.0\ExercicioFixacaoApp.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoApp\obj\Debug\net6.0\ExercicioFixacaoApp.csproj.CoreCompileInputs.cache

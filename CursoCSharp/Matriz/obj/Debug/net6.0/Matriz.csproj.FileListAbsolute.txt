@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\bin\Debug\net6.0\Matriz.exe
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\bin\Debug\net6.0\Matriz.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\bin\Debug\net6.0\Matriz.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\bin\Debug\net6.0\Matriz.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Matriz\obj\Debug\net6.0\ref\Matriz.dll

@@ -1,0 +1,5 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoVetorClass\obj\Debug\net6.0\ExercicioFixacaoVetorClass.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoVetorClass\obj\Debug\net6.0\ExercicioFixacaoVetorClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoVetorClass\obj\Debug\net6.0\ExercicioFixacaoVetorClass.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoVetorClass\obj\Debug\net6.0\ExercicioFixacaoVetorClass.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoVetorClass\obj\Debug\net6.0\ExercicioFixacaoVetorClass.csproj.CoreCompileInputs.cache

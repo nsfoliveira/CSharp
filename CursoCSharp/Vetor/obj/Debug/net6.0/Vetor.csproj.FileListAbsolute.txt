@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\bin\Debug\net6.0\Vetor.exe
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\bin\Debug\net6.0\Vetor.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\bin\Debug\net6.0\Vetor.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\bin\Debug\net6.0\Vetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\bin\Debug\net6.0\Vetor.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\refint\Vetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\Vetor.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\Vetor\obj\Debug\net6.0\ref\Vetor.dll

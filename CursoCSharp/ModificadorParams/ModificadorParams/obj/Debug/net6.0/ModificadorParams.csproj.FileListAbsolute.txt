@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.exe
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\refint\ModificadorParams.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ref\ModificadorParams.dll

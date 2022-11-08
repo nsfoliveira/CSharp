@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.exe
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\refint\ExercicioFixacaoVetor.dll
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.pdb
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\ExercicioFixacaoVetor\obj\Debug\net6.0\ref\ExercicioFixacaoVetor.dll

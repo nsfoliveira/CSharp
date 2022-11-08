@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\CursoCSharp\\referencia\\referencia.csproj",
-      "projectName": "referencia",
-      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\CursoCSharp\\referencia\\referencia.csproj",
+      "projectUniqueName": "E:\\Workspace_Natalia\\c#\\PROJETOS\\CursoCSharp\\referencia\\point.csproj",
+      "projectName": "point",
+      "projectPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\CursoCSharp\\referencia\\point.csproj",
       "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
       "outputPath": "E:\\Workspace_Natalia\\c#\\PROJETOS\\CursoCSharp\\referencia\\obj\\",
       "projectStyle": "PackageReference",

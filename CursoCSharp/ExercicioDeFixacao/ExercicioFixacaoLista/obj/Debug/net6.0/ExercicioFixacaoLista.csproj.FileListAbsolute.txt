@@ -1,0 +1,15 @@
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.exe
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.deps.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.runtimeconfig.json
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.csproj.AssemblyReference.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.AssemblyInfoInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.AssemblyInfo.cs
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.csproj.CoreCompileInputs.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\refint\ExercicioFixacaoLista.dll
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.pdb
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.genruntimeconfig.cache
+E:\Workspace_Natalia\c#\PROJETOS\CursoCSharp\ExercicioDeFixacao\ExercicioFixacaoLista\obj\Debug\net6.0\ref\ExercicioFixacaoLista.dll
